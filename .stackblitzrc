@@ -3,10 +3,10 @@
   "startCommand": "npm run dev",
   "env": {
     "ENABLE_CJS_IMPORTS": true,
-    "AUTH0_CALLBACK_URL": "http://localhost:3000/dashboard",
+    "AUTH0_CALLBACK_URL": "https://node-sr1hfe--3000.local.webcontainer.io/dashboard",
     "AUTH0_CLIENT_ID": "Mg6h5AxYVkgsAGSCDu8u0GkApXXht8TU",
     "AUTH0_CLIENT_SECRET": "NJ6wd47mxwxJmcCOk4hL82WhRQSW9xMD-Z40DgSV39ce5817hLvKGWIwM7glBVJx",
     "AUTH0_DOMAIN": "odysseusdigital.us.auth0.com",
-    "AUTH0_LOGOUT_URL": "http://localhost:3000/loggedOut",
+    "AUTH0_LOGOUT_URL": "https://node-sr1hfe--3000.local.webcontainer.io/loggedOut",
   }
 }
